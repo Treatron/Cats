@@ -1,10 +1,10 @@
-
 header{    
     background-position: center center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body{
     background-image: url(/hatter2.jpg);
+    background-repeat: round;
 }
 
 h1{
@@ -29,5 +29,5 @@ thead>tr:first-child{
 #maki{
     text-align: justify;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: darkslategrey;
+    color: rgb(37, 90, 90);
 }
