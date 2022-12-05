@@ -7,6 +7,15 @@ h1{
     background-color: rgb(248, 248, 248);
     margin-top: 80px;
     padding-left: 11rem;    
+    text-align: center;
+}
+nav{
+    
+   text-align-last: center;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+
 }
 
 h2{    
