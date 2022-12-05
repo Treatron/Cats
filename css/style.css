@@ -19,16 +19,17 @@ h3{
 }
 
 
-li{
-    list-style-image: url(../img/lemon2.png);
-}
-
-
-td,th{
-    text-align: center;
-}
-
 thead>tr:first-child{    
     letter-spacing: 2px;    
 }
+div.maki{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkslategrey;
+}
 
+div.maine_coon{
+    width: 300px;
+    height: 300px;
+    float: right;
+}
